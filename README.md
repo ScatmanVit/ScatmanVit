@@ -2,6 +2,12 @@
 <h1 align="center">👨‍💻 Oi, eu sou o Vitor!</h1>
 
 <p align="center">
+Sou estudante e desenvolvedor web focado principalmente em front-end, embora esteja explorando o back-end e buscando me tornar full stack.  
+Gosto de criar interfaces limpas, responsivas e funcionais, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.  
+Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para crescer cada vez mais na área de desenvolvimento.
+</p>
+
+<p align="center">
   💡 Estudante, autodidata e entuasiasta por automações e bots 🤖<br>
   🔥 Explorando todos os dias Node.js, HTML, CSS, Javascript, n8n e React<br>
   🌱 Buscando sempre construir soluções reais e inteligentes.
@@ -34,13 +40,14 @@
 ### 💻 Tecnologias que uso
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
 </p>
 
 ---
@@ -49,11 +56,11 @@
 
 | 💡 Projeto | 🔗 Link | 🚀 Tecnologias |
 |-----------|---------|----------------|
-| 🔍 Mecanismo de Pesquisa | [Ver projeto](https://github.com/ScatmanVit/mecanismo-pequisa) | JavaScript, HTML, CSS |
-| 🧱 API CRUD de Usuários | [Ver projeto](https://github.com/ScatmanVit/pratica_api_node-crud-users) | Node.js, Express, JSON |
-| 🌙 Tema Escuro no React | [Ver projeto](https://github.com/ScatmanVit/ModoEscuro_ComREACT) | React, Hooks, CSS |
-| 🎨 Landing Page CSS | [Ver projeto](https://github.com/ScatmanVit/Landing_Page_CSS) | HTML, CSS puro |
-| 🎮 Pokédex com PokeAPI | [Ver projeto](https://github.com/ScatmanVit/ReactPokedex-Consumindo-PokeAPI) | React, PokeAPI, useEffect |
+| 🔍 Mecanismo de Pesquisa | 🔗 [Ver projeto](https://github.com/ScatmanVit/mecanismo-pequisa) | JavaScript, HTML, CSS |
+| 🧱 API CRUD de Usuários | 🔗 [Ver projeto](https://github.com/ScatmanVit/pratica_api_node-crud-users) | Node.js, Express, JSON |
+| 🌙 Tema Escuro no React | 🔗 [Ver projeto](https://github.com/ScatmanVit/ModoEscuro_ComREACT) | React, Hooks, CSS |
+| 🎨 Landing Page CSS | 🔗 [Ver projeto](https://github.com/ScatmanVit/Landing_Page_CSS) | HTML, CSS puro |
+| 🎮 Pokédex com PokeAPI | 🔗 [Ver projeto](https://github.com/ScatmanVit/ReactPokedex-Consumindo-PokeAPI) | React, PokeAPI, useEffect |
 
 
 ---
