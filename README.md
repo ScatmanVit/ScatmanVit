@@ -49,11 +49,12 @@
 
 | 💡 Projeto | 🔗 Link | 🚀 Tecnologias |
 |-----------|---------|----------------|
-| 🔍 Mecanismo de Pesquisa | Ver projeto(https://github.com/ScatmanVit/mecanismo-pequisa) | JavaScript, HTML, CSS |
-| 🧱 API CRUD de Usuários | Ver projeto(https://github.com/ScatmanVit/pratica_api_node-crud-users) | Node.js, Express, JSON |
-| 🌙 Tema Escuro no React | Ver projeto(https://github.com/ScatmanVit/ModoEscuro_ComREACT) | React, Hooks, CSS |
-| 🎨 Landing Page CSS | Ver projeto(https://github.com/ScatmanVit/Landing_Page_CSS) | HTML, CSS puro |
-| 🎮 Pokédex com PokeAPI | Ver projeto(https://github.com/ScatmanVit/ReactPokedex-Consumindo-PokeAPI) | React, PokeAPI, useEffect |
+| 🔍 Mecanismo de Pesquisa | [Ver projeto](https://github.com/ScatmanVit/mecanismo-pequisa) | JavaScript, HTML, CSS |
+| 🧱 API CRUD de Usuários | [Ver projeto](https://github.com/ScatmanVit/pratica_api_node-crud-users) | Node.js, Express, JSON |
+| 🌙 Tema Escuro no React | [Ver projeto](https://github.com/ScatmanVit/ModoEscuro_ComREACT) | React, Hooks, CSS |
+| 🎨 Landing Page CSS | [Ver projeto](https://github.com/ScatmanVit/Landing_Page_CSS) | HTML, CSS puro |
+| 🎮 Pokédex com PokeAPI | [Ver projeto](https://github.com/ScatmanVit/ReactPokedex-Consumindo-PokeAPI) | React, PokeAPI, useEffect |
+
 
 ---
 
