@@ -2,9 +2,9 @@
 <h1 align="center">👨‍💻 Oi, eu sou o Vitor!</h1>
 
 <p align="center">
-  💡 Estudante, autodidata e apaixonado por automações e bots.<br>
-  🔥 Explorando Node.js, React, Docker, n8n, Supabase e APIs.<br>
-  🌱 Construindo soluções reais com código e criatividade.
+  💡 Estudante, autodidata e entuasiasta por automações e bots 🤖<br>
+  🔥 Explorando todos os dias Node.js, HTML, CSS, Javascript, n8n e React<br>
+  🌱 Buscando sempre construir soluções reais e inteligentes.
 </p>
 
 <p align="center">
@@ -49,11 +49,11 @@
 
 | 💡 Projeto | 🔗 Link | 🚀 Tecnologias |
 |-----------|---------|----------------|
-| 🔍 Mecanismo de Pesquisa | [Ver projeto](https://github.com/ScatmanVit/mecanismo-pequisa) | JavaScript, HTML, CSS |
-| 🧱 API CRUD de Usuários | [Ver projeto](https://github.com/ScatmanVit/pratica_api_node-crud-users) | Node.js, Express, JSON |
-| 🌙 Tema Escuro no React | [Ver projeto](https://github.com/ScatmanVit/ModoEscuro_ComREACT) | React, Hooks, CSS |
-| 🎨 Landing Page CSS | [Ver projeto](https://github.com/ScatmanVit/Landing_Page_CSS) | HTML, CSS puro |
-| 🎮 Pokédex com PokeAPI | [Ver projeto](https://github.com/ScatmanVit/ReactPokedex-Consumindo-PokeAPI) | React, PokeAPI, useEffect |
+| 🔍 Mecanismo de Pesquisa | Ver projeto(https://github.com/ScatmanVit/mecanismo-pequisa) | JavaScript, HTML, CSS |
+| 🧱 API CRUD de Usuários | Ver projeto(https://github.com/ScatmanVit/pratica_api_node-crud-users) | Node.js, Express, JSON |
+| 🌙 Tema Escuro no React | Ver projeto(https://github.com/ScatmanVit/ModoEscuro_ComREACT) | React, Hooks, CSS |
+| 🎨 Landing Page CSS | Ver projeto(https://github.com/ScatmanVit/Landing_Page_CSS) | HTML, CSS puro |
+| 🎮 Pokédex com PokeAPI | Ver projeto(https://github.com/ScatmanVit/ReactPokedex-Consumindo-PokeAPI) | React, PokeAPI, useEffect |
 
 ---
 
@@ -68,4 +68,4 @@
 
 ### ✨ Frase que me guia
 
-> “Não sou só mais um dev. Sou alguém que quer deixar o mundo melhor com código de verdade.”
+> “Não sou movido a certezas, sou movido a perguntas.”
