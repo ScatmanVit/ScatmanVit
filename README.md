@@ -5,7 +5,7 @@
 Sou estudante e desenvolvedor web focado principalmente em front-end, embora esteja explorando o back-end e buscando me tornar full stack.  
 Gosto de criar interfaces limpas, responsivas e funcionais, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.  
 Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para crescer cada vez mais na área de desenvolvimento.
-</p>
+</p> 
 
 <p align="center">
   💡 Estudante, autodidata e entuasiasta por automações e bots 🤖<br>
