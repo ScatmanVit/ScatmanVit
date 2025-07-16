@@ -1,13 +1,13 @@
 
 <h1 align="center">👨‍💻 Oi, eu sou o Vitor!</h1>
 
-<p align="center">
+<p>
 Sou estudante e desenvolvedor web focado principalmente em front-end, embora esteja explorando o back-end e buscando me tornar full stack.  
 Gosto de criar interfaces limpas, responsivas e funcionais, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.  
 Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para crescer cada vez mais na área de desenvolvimento.
 </p> 
 
-<p align="center">
+<p>
   💡 Estudante, autodidata e entuasiasta por automações e bots 🤖<br>
   🔥 Explorando todos os dias Node.js, HTML, CSS, Javascript, n8n e React<br>
   🌱 Buscando sempre construir soluções reais e inteligentes.
@@ -24,16 +24,11 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 
 ### 📊 Minhas Estatísticas
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ScatmanVit&show_icons=true&theme=tokyonight&count_private=true" width="100%">
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScatmanVit&layout=compact&theme=tokyonight&langs_count=8" width="100%">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScatmanVit&show_icons=true&theme=tokyonight&count_private=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScatmanVit&layout=compact&theme=tokyonight&langs_count=8" width="50%"/>
+</div>
+
 
 ---
 
@@ -77,4 +72,13 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 
 ### ✨ Frase que me guia
 
-> “Não sou movido a certezas, sou movido a perguntas.”
+> “Não sou movido a certezas, sou movido a perguntas. A curiosidade representa a criança interior.”
+
+---
+
+### 📈 Contribuições e Atividade
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScatmanVit&theme=tokyonight" alt="streak stats"/>
+</p>
+
