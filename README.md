@@ -50,6 +50,8 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 
 ### 🌟 Projetos em Destaque
 
+<div align="center">
+
 | 💡 Projeto | 🔗 Link | 🚀 Tecnologias |
 |-----------|---------|----------------|
 | 🔍 Mecanismo de Pesquisa | 🔗 [Ver projeto](https://github.com/ScatmanVit/mecanismo-pequisa) | JavaScript, HTML, CSS |
@@ -58,6 +60,7 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 | 🎨 Landing Page CSS | 🔗 [Ver projeto](https://github.com/ScatmanVit/Landing_Page_CSS) | HTML, CSS puro |
 | 🎮 Pokédex com PokeAPI | 🔗 [Ver projeto](https://github.com/ScatmanVit/ReactPokedex-Consumindo-PokeAPI) | React, PokeAPI, useEffect |
 
+</div>
 
 ---
 
@@ -78,7 +81,8 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 
 ### 📈 Contribuições e Atividade
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ScatmanVit&theme=tokyonight" alt="streak stats"/>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=ScatmanVit&show_icons=true&theme=tokyonight"/></a>
 </p>
 
