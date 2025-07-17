@@ -52,15 +52,17 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 
 <div align="center">
 
-| 💡 Projeto | 🔗 Link | 🚀 Tecnologias |
-|-----------|---------|----------------|
-| 🔍 Mecanismo de Pesquisa | 🔗 [Ver projeto](https://github.com/ScatmanVit/mecanismo-pequisa) | JavaScript, HTML, CSS |
-| 🧱 API CRUD de Usuários | 🔗 [Ver projeto](https://github.com/ScatmanVit/pratica_api_node-crud-users) | Node.js, Express, JSON |
-| 🌙 Tema Escuro no React | 🔗 [Ver projeto](https://github.com/ScatmanVit/ModoEscuro_ComREACT) | React, Hooks, CSS |
-| 🎨 Landing Page CSS | 🔗 [Ver projeto](https://github.com/ScatmanVit/Landing_Page_CSS) | HTML, CSS puro |
-| 🎮 Pokédex com PokeAPI | 🔗 [Ver projeto](https://github.com/ScatmanVit/ReactPokedex-Consumindo-PokeAPI) | React, PokeAPI, useEffect |
+| 💡 Projeto                 | 🔗 Link                                                                 | 🚀 Tecnologias           |
+|---------------------------|-------------------------------------------------------------------------|-------------------------|
+| 🔍 Mecanismo de Pesquisa   | 🔗 [Ver projeto](https://github.com/ScatmanVit/mecanismo-pequisa)       | JavaScript, HTML, CSS   |
+| 🧱 API CRUD de Usuários    | 🔗 [Ver projeto](https://github.com/ScatmanVit/pratica_api_node-crud-users) | Node.js, Express, JSON  |
+| 🖥️ Front-end Node CRUD     | 🔗 [Ver projeto](https://github.com/ScatmanVit/front_end-node-crud)     | HTML, JavaScript, CSS   |
+| 🎨 Landing Page CSS        | 🔗 [Ver projeto](https://github.com/ScatmanVit/Landing_Page_CSS)        | HTML, CSS puro          |
+| 🌙 Tema Escuro no React    | 🔗 [Ver projeto](https://github.com/ScatmanVit/ModoEscuro_ComREACT)     | React, Hooks, CSS       |
+| 🎮 Pokédex com PokeAPI     | 🔗 [Ver projeto](https://github.com/ScatmanVit/ReactPokedex-Consumindo-PokeAPI) | React, PokeAPI, useEffect |
 
 </div>
+
 
 ---
 
