@@ -22,16 +22,6 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 
 ---
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ScatmanVit&show_icons=true&theme=tokyonight&count_private=true" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScatmanVit&layout=compact&theme=tokyonight&langs_count=8" width="50%"/>
-</div>
-
-
----
-
 ### 💻 Tecnologias que uso
 
 <p align="center">
@@ -45,6 +35,15 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySql" />
 </p>
+
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScatmanVit&show_icons=true&theme=tokyonight&count_private=true" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScatmanVit&layout=compact&theme=tokyonight&langs_count=8" width="50%"/>
+</div>
 
 ---
 
