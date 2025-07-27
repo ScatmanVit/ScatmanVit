@@ -53,7 +53,7 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 
 | 💡 Projeto                 | 🔗 Link                                                                 | 🚀 Tecnologias           |
 |---------------------------|-------------------------------------------------------------------------|-------------------------|
-| 🧱 API CRUD de Usuários    | 🔗 [Ver projeto](https://github.com/ScatmanVit/pratica_api_node-crud-users) | Node.js, Express, JSON  |
+| 🧱 API CRUD de Usuários    | 🔗 [Ver projeto](https://github.com/ScatmanVit/pratica_api_node-crud-users) | Node.js, Express, MongoDB  |
 | 🖥️ Front-end Node CRUD     | 🔗 [Ver projeto](https://github.com/ScatmanVit/front_end-node-crud)     | HTML, JavaScript, CSS   |
 | 🔍 Mecanismo de Pesquisa   | 🔗 [Ver projeto](https://github.com/ScatmanVit/mecanismo-pequisa)       | JavaScript, HTML, CSS   |
 | 🎨 Landing Page CSS        | 🔗 [Ver projeto](https://github.com/ScatmanVit/Landing_Page_CSS)        | HTML, CSS puro          |
