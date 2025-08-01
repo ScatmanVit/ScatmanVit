@@ -9,7 +9,7 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 
 <p>
   💡 Estudante, autodidata e entuasiasta por automações e bots 🤖<br>
-  🔥 Explorando todos os dias Node.js, HTML, CSS, Javascript, n8n e React<br>
+  🔥 Explorando todos os dias Node.js, HTML, CSS, Javascript, Cmd's Git e React<br>
   🌱 Buscando sempre construir soluções reais e inteligentes.
 </p>
 
