@@ -25,7 +25,7 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 ### 💻 Tecnologias que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,prisma,git,vite" />
 </p>
 
 ---
