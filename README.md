@@ -16,8 +16,6 @@ Ainda estou no começo da minha jornada, mas estou dedicado e empolgado para cre
 <p align="center">
   <img src="https://img.shields.io/github/followers/ScatmanVit?label=Seguidores&style=social" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ScatmanVit.ScatmanVit" />
-  <img src="https://img.shields.io/github/last-commit/ScatmanVit/pratica_api_node-crud-users?color=green" />
-  <img src="https://img.shields.io/github/languages/top/ScatmanVit/pratica_api_node-crud-users" />
 </p>
 
 ---
