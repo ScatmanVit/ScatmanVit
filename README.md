@@ -68,7 +68,7 @@ Backend developer focused on building robust APIs and scalable systems. Currentl
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ScatmanVit&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorbaradel&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
 ----
